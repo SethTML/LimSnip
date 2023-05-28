@@ -1,4 +1,4 @@
-let toggleName = window.alert("Create Toggle Id") // Enter Selected Toggle into here
+let toggleName = window.alert("Set Toggle Id") // Enter Selected Toggle into here
 localStorage.setItem(toggleName,true);
 
 
