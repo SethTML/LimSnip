@@ -15,7 +15,7 @@ There is no gurantee of securing any item.
 <br>  ToggleName = Toggle ID for the item you will be sniping (used to toggle snipe and off)
 
 <br>--TIPS:
-<br> Extra roblox extensions will make the site take longer to load. It's best to remove them all when doing this.
-<br> There is no gurantee of securing an item. Using multiple accounts can raise your chances of success as long as it doesnt reduce performance.
+<br> Extra roblox extensions increase site loading time. It's best to remove them all when doing this.
+<br> There is no gurantee of securing an item. Using multiple accounts can raise your chances of success. (as long as it doesnt reduce performance)
 
 <br>  Enjoy.
