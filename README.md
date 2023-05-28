@@ -1,4 +1,4 @@
-# MUST READ
+# <span style = "color: red">MUST READ</span>
 # LimSnip
 # USE AT YOUR OWN RISK⚠
 Bot Limiteds as you please.<br>
