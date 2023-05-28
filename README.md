@@ -13,6 +13,8 @@ There is no gurantee of securing any item.
 <br>  desiredPrice = (Items over this amount wont be purchased)
 <br>  ^ Isn't used for FREE items
 <br>  ToggleName = Toggle ID for the item you will be sniping (used to toggle snipe and off)
+<br> Go to Toggle.js and create the toggle ID for the item youll be sniping.
+<br> ^ this code goes into the dev console. it should match the ToggleName in the script.
 
 <br>--TIPS:
 <br> Extra roblox extensions increase site loading time. It's best to remove them all when doing this.
