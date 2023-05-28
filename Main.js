@@ -40,7 +40,6 @@ function snipe() {
   }
 
   if (willPurchase) {
-    localStorage.setItem(ToggleName, false);
     button.click();
     function checkReady2() {
       if (document.getElementsByClassName("modal-button btn-primary-md btn-min-width")[0] != null) {
