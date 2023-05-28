@@ -1,4 +1,4 @@
-# READ ME
+# MUST READ
 # LimSnip
 # USE AT YOUR OWN RISK⚠
 Bot Limiteds as you please.<br>
