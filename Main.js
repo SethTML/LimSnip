@@ -2,6 +2,7 @@
 // @name         Lim Sniper
 // @namespace    http://example.com
 // @version      1.0
+// @author       m2av#1414
 // @description  My Tampermonkey script that runs on every page load
 // @match        *://*/*
 // @run-at       document-idle
